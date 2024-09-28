@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otocirem.github.io/sitemap.otocirem.gz
+Sitemap: https://otocirem.github.io/app/sitemap.otocirem.gz
+Sitemap: https://otocirem.github.io/assets/sitemap.otocirem.gz
+Sitemap: https://otocirem.github.io/css/sitemap.otocirem.gz
+Sitemap: https://otocirem.github.io/data/sitemap.otocirem.gz
+Sitemap: https://otocirem.github.io/includes/sitemap.otocirem.gz
+Sitemap: https://otocirem.github.io/item/sitemap.otocirem.gz
+Sitemap: https://otocirem.github.io/src/sitemap.otocirem.gz
